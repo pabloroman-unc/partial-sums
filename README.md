@@ -40,4 +40,4 @@ This file provides an example of working with Lommel polynomials in Maple. It in
 
 ## Plots of the trajectories of the zeros
 
-[![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg)](https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4)
+[![Watch the video]]([https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4](https://github.com/pabloroman-unc/partial-sums/blob/main/animacion.mp4))
