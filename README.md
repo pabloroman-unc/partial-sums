@@ -32,12 +32,11 @@ $$q_m^{(\nu)}(x;t) = \sum_{n=0}^m h_{m,\nu}(x) t^n,$$
 
 as the parameter $t$ approaches zero. Initially, the zeros of $q_m(x;t)$ are close to a zero of $h_{m,\nu}(x)$.
 
-
-
 https://github.com/user-attachments/assets/0e5f2a7c-d807-4e64-8c76-6c4c004d7c77
 
+## Plots of zeros of partial sums
 
-
+The file 'Plots.ipynb' provides the plots for zeros and trajectories of the partial sums of Hermite, Charlier and Lommel polynomials.
 
 ## Three main Examples:
 
@@ -49,7 +48,7 @@ https://github.com/user-attachments/assets/0e5f2a7c-d807-4e64-8c76-6c4c004d7c77
 
 This file provides verifications of formulas of partial sums of Hermite polynomials in Maple. It includes:
 
-- **Defining the partial sums q_m(x;t)**:
+- **Defining the partial sums $q_m(x;t)$**:
 
 - **Simplifications and Verifications**: Simplifying and verifying expressions related to the recurrence relations.
 
@@ -65,13 +64,13 @@ This file provides verifications of formulas for partial sums of Charlier polyno
 
 - **Simplifications and Verifications**: Simplifying and verifying expressions related to the recurrence relations.
 
-- **Derivatives of q^{(a)}_m(x;t)**: Computing and simplifying differences of the function q^{(a)}_m(x;t).
+- **Derivatives of $q^{(a)}_m(x;t)$**: Computing and simplifying differences of the function $q^{(a)}_m(x;t)$.
 
 ### 3. Lommel Polynomials Example (`Lommel.mw`)
 
 This file provides verifications of formulas for partial sums of Lommel polynomials in Maple. It includes:
 
-- **Defining the partial sums q**:
+- **Defining the partial sums $q$**:
 
 - **Simplifications and Verifications**: Simplifying and verifying expressions related to the recurrence relations.
 
