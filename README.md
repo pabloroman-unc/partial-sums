@@ -22,7 +22,11 @@ $$q_m^{(3)}(x;t) = \sum_{n=0}^m \frac{C^{(3)}_{n}(x) t^n}{n!},$$
 as the parameter $t$ approaches zero. Initially, the zeros of $q_m(x;t)$ are close to a zero of $C^{(3)}_m(x)$. The first
 collission occurs at a critical time $t_c$. For $t &lt; t_c$, the zeros move into the complex plane.
 
-https://github.com/user-attachments/assets/92349838-c789-4a0e-b01e-8b1b2f1b9788
+
+
+https://github.com/user-attachments/assets/00d90d06-f9e4-4363-a4c9-b81403709c8e
+
+
 
 
 ### Trajectories of partial sums of Lommel polynomials
